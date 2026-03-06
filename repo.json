@@ -1,0 +1,8 @@
+{
+  "packages": {
+    "hello": {
+      "file": "packages/hello.py",
+      "description": "Тестовая программа"
+    }
+  }
+}
