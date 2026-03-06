@@ -3,12 +3,10 @@
     "hello": {
       "file": "packages/hello.py",
       "description": "Тестовая программа"
-    }
+    },
     "oneone": {
       "file": "packages/oneone.py",
       "description": "Один плюс один"
     }
   }
 }
-
-
