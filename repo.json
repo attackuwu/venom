@@ -5,9 +5,10 @@
       "description": "Тестовая программа"
     }
     "oneone": {
-      "file": "packages/oneone.py"
+      "file": "packages/oneone.py",
       "description": "Один плюс один"
     }
   }
 }
+
 
