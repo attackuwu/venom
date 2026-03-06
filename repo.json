@@ -1,0 +1,19 @@
+{
+  "repository": "Venom Official Repo",
+  "maintainer": "attackuwu",
+  "version": "1.0",
+  "packages": {
+    "hello": {
+      "version": "1.0.0",
+      "description": "Простой пакетный менеджер для Pynux/Python.",
+      "dependencies": [],
+      "file": "packages/hello.py"
+    },
+    "sysinfo": {
+      "version": "0.1.0",
+      "description": "Утилита для показа информации о системе Pynux.",
+      "dependencies": [],
+      "file": "packages/sysinfo.py"
+    }
+  }
+}
