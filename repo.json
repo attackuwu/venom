@@ -7,11 +7,12 @@
     "oneone": {
       "file": "packages/oneone.py",
       "description": "Один плюс один"
-    }
+    },
     "test1": {
       "file": "packages/test1.py",
       "description": "Тест"
     }
   }
 }
+
 
